@@ -1,0 +1,7 @@
+"C:\Users\yos\AppData\Local\Programs\Python\Python313\python.exe" -m http.server 8000
+
+http://localhost:8000/stok_c15.html
+
+cd C:\Users\yos\Desktop\stok15
+
+"C:\Users\yos\AppData\Local\Programs\Python\Python313\python.exe" proxy_server.py

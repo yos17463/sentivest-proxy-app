@@ -1,0 +1,13 @@
+sentivest-app
+
+--name your-unique-app-name: זהו השם של אפליקציית הווב שלך, והוא חייב להיות ייחודי גלובלית. 
+בחר שם שמעולם לא נעשה בו שימוש ב-Azure. לדוגמה, my-stock-proxy-server-2025-july-15-abc 
+או investing-proxy-app-yourname-123.
+
+--resource-group MyStockAppResourceGroup: השם של קבוצת המשאבים שיצרת.
+
+--plan MyStockAppPlan: השם של תוכנית ה-App Service שיצרת.
+
+--runtime "PYTHON|3.9": מציין שאנו מריצים יישום Python בגרסה 3.9.
+
+--location israelcentral: זהו המיקום הנכון שאושר על ידי המדיניות במנוי שלך.
