@@ -2018,8 +2018,8 @@ let currentLanguage = 'he'; // Default language
 const savedTheme = localStorage.getItem('theme') || 'light'; // Default to light
 
 // --- Proxy Server URL ---
-// IMPORTANT: Replaced with the actual URL where your Flask proxy server is running on Azure.
-const PROXY_BASE_URL = "https://sentivest-app.azurewebsites.net/finnhub-proxy"; // Base URL for your proxy endpoints
+// IMPORTANT: Replaced with the actual URL where your Flask proxy server is running on Render.
+const PROXY_BASE_URL = 'https://sentivest-proxy-app.onrender.com/finnhub-proxy'; // Base URL for your proxy endpoints
 // --- End Proxy Server URL ---
 
 // Function to generate fake historical data for charts when real data is unavailable

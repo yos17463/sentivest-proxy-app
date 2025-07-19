@@ -5,3 +5,12 @@ http://localhost:8000/stok_c15.html
 cd C:\Users\yos\Desktop\stok15
 
 "C:\Users\yos\AppData\Local\Programs\Python\Python313\python.exe" proxy_server.py
+
+
+
+
+PS C:\Users\yos\Desktop\stok15> az webapp deployment user set --user-name myproxy --password YosNin123
+
+Username--myproxy
+
+Password--YosNin17041963#$
